@@ -1,3 +1,4 @@
+# Retro Quest
 Retro Quest ⚔️
 A tile-based 2D RPG built from scratch with Java 25 and Swing. This project implements core game engine mechanics—including a custom game loop, collision detection, and sprite animation—following the logic of the RyiSnow tutorial series.
 
