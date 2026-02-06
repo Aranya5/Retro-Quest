@@ -1,0 +1,14 @@
+# Compiled Java files (Never share these; others' computers will generate their own)
+*.class
+*.jar
+
+# VS Code specific files
+.vscode/
+bin/
+
+# macOS system files
+.DS_Store
+
+# Java specific crash logs and temporary files
+hs_err_pid*
+replay_pid*
