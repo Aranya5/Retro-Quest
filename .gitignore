@@ -1,14 +1,14 @@
-# Compiled Java files (Never share these; others' computers will generate their own)
+# Compiled Java class files
 *.class
-*.jar
 
-# VS Code specific files
-.vscode/
+# Compiled binaries folder (matches your 'bin' folder)
 bin/
+
+# Local VS Code settings
+.vscode/
 
 # macOS system files
 .DS_Store
 
-# Java specific crash logs and temporary files
-hs_err_pid*
-replay_pid*
+# Temporary log files
+*.log
